@@ -1,0 +1,12 @@
+name = "Morning Lark"
+license = "MIT"
+licenselink = "https://github.com/hackebrot/morning-lark/blob/master/LICENSE"
+description = "✏️ A hugo theme for blogs"
+homepage = "https://github.com/hackebrot/morning-lark"
+tags = ["blog"]
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Raphael Pierzina"
+  homepage = "https://raphael.codes"
